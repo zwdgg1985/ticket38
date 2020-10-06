@@ -6,8 +6,7 @@
 trigger: none
 
 pr:
-- master
-- B2
+- main
 
 pool:
   vmImage: 'ubuntu-latest'
