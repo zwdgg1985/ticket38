@@ -1,3 +1,3 @@
 # ticket38
 
-B1
+B1 - add string
